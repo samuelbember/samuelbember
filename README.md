@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @samuelbember
+- 👀 I’m a Product Designer at Geofusion
+- 🌱 I’m currently learning how to improve Design Systems
+- 📫 Mail me at samuelbember@gmail.com
